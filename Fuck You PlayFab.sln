@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuck You PlayFab", "Fuck You PlayFab\Fuck You PlayFab.csproj", "{DCFC5AA9-42BE-41A4-9823-3B8FAE96A9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCFC5AA9-42BE-41A4-9823-3B8FAE96A9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFC5AA9-42BE-41A4-9823-3B8FAE96A9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFC5AA9-42BE-41A4-9823-3B8FAE96A9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFC5AA9-42BE-41A4-9823-3B8FAE96A9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
